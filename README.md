@@ -8,7 +8,7 @@
 </div>
 
 ## Contents
- [Data Cleaning](/Data\ Cleaning.ipynb) - This file holds the transformations I used to convert the raw Census data into usable API information.
+ [Data Cleaning](/Data%20Cleaning.ipynb) - This file holds the transformations I used to convert the raw Census data into usable API information.
 
 ## Libaries Used
 ### Database
