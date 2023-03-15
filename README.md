@@ -10,6 +10,8 @@
 ## Contents
  [Data Cleaning](/Data%20Cleaning.ipynb) - This file holds the transformations I used to convert the raw Census data into usable API information.
 
+ [Census API](/API/) - This folder contains the project files for the API portion of the project.
+
 ## Libaries Used
 ### Database
 * AWS RDS: Postgres
