@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://diversity.ncsu.edu/wp-content/uploads/2020/03/Census-bureau.png" alt="Census" height="400"/>
   <br>
-  <p id="desc" style="font-style:italic;text-align:center;">An API and Python library used for retrieving cleaned Government data.
+  <p id="desc" style="font-style:italic;text-align:center;">An API and Python Library created to retrieve cleaned Government Census data.
   </p>
 </div>
 
