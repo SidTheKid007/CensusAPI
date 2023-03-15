@@ -8,7 +8,7 @@
 </div>
 
 ## Contents
- [Census Backend](/Census.py) - This file holds the backend that runs certain queries and formats US Census data.
+ [Census Backend](/API/Census.py) - This file holds the backend that runs certain queries and formats US Census data.
 
 ## Website
 http://127.0.0.1:5000/ - This website contains the final result of the project.

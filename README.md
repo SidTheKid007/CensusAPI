@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight:bold;font-size:32px;">Census API</h1>
+<h1 align="center" style="font-weight:bold;font-size:32px;">US Census</h1>
 
 <div align="center">
   <img src="https://diversity.ncsu.edu/wp-content/uploads/2020/03/Census-bureau.png" alt="Census" height="400"/>
